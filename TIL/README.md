@@ -8,4 +8,4 @@ Well, work .. expand the base, one more and one more. "I want my request the siz
 Screwed the rollback script of the virtual machine. yes a crutch, but so far it is not possible to solve the problem with the HASP key.He just disappears sometimes
 ###
 
-*thanks to google translator*
+*thanks to google translate*
